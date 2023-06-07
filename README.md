@@ -16,7 +16,7 @@ Listed in the pom.xml file.
 JUnit5 - With JUnit5 you are able to test your code to return expected values. Futhermore you can failproof your methods if tests come out faulty.
 Mockito - With Mockito you are able to, for this purpose, fake an API-response so you can return expected value.
 
-## Benefit of TDD and Mockito
+## Benefit of TDD and Mockito  
 **Benefits of TDD:**
 * Forces you to think about several problematic outcomes and code to prevent them accordingly.
 **Benefits of Mockito**
