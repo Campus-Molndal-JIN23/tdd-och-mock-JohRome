@@ -5,7 +5,7 @@ tdd-och-mock-JohRome
 
 ## Description
 By the usage of TDD i can be more sure that my application provides robust and more accurate weather forecasts and thrives to retrieve accurate weather information about a specific city.
-I learned that mocking can be quite fun and useful when you fake your API responses.
+I learned that mocking can be quite fun and useful when you need to fake your API responses and not wasting valuable calls.
 
 ## Usage
 Click on the green <> Code -button and download as .zip.
