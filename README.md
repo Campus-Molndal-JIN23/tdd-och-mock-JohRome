@@ -18,7 +18,7 @@ Listed in the pom.xml file.
 
 ## Benefit of TDD and Mockito  
 
-**Benefits of TDD:**
+**Benefits of TDD**
 * Forces you to think about several problematic outcomes and code to prevent them accordingly.  
 
 **Benefits of Mockito**
