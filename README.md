@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-Un0hjO8)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11299649)
-# Project name
+# Project Name
 tdd-och-mock-JohRome
 
 ## Description
@@ -11,8 +11,12 @@ I learned that mocking can be quite fun and useful when you fake your API respon
 Click on the green <> Code -button and download as .zip.
 Open the map and then open the java class of your liking and explore.
 
-## Dependencies
-Take a futher look inside the pom.xml file
+## Dependencies and Description
+Listed in the pom.xml file.
+JUnit5 - With JUnit5 you are able to test your code to return expected values. Futhermore you can failproof your methods if tests come out faulty.
+Mockito - With Mockito you are able to, for this purpose, fake an API-response so you can return expected value.
+
+## Benefit of TDD and Mockito
 
 ## Test Report
 
