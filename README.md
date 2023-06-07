@@ -27,7 +27,7 @@ Mockito - With Mockito you are able to, for this purpose, fake an API-response s
 
 ## Test Report
 
-##### Test Summary
+##### Test Summary - 2023/06/07
 
 | Test ID | Test Description | Expected Result | Actual Result | Status | Comments |
 |---------|-----------------|-----------------|---------------|--------|----------|
@@ -37,4 +37,6 @@ Mockito - With Mockito you are able to, for this purpose, fake an API-response s
 | 4       | Assuring positive temperature is shown | "Temperature: 13.37°C" | "Temperature: 13.37°C" |   OK    |     No problems identified     |
 | 5       | Assuring negative temperature is shown | "Temperature: -40.3°C" | "Temperature: -40.3°C" |   OK    |     No problems identified     |
 
-
+#### Final Words
+* The `WeatherService` class appears to be reliable and free from issues based on the tests, which cover basic scenarios.  
+However, there are still alot of untested scenarios wich might show their true self when least needed, like most things in life, for good or bad.
