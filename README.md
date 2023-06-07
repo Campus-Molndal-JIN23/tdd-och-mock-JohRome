@@ -11,17 +11,9 @@ I learned that mocking can be quite fun and useful when you fake your API respon
 Click on the green <> Code -button and download as .zip.
 Open the map and then open the java class of your liking and explore.
 
+## Dependencies
+Take a futher look inside the pom.xml file
 
-## Credits
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-* [junit jupiter 5](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter/5.7.0)
-
-If you followed tutorials, include links to those here as well.
-
-
-
-
-## Tests
+## Test Report
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
