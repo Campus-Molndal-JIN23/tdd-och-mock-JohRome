@@ -12,8 +12,8 @@ Click on the green <> Code -button and download as .zip.
 Open the map and then open the java class of your liking and explore.
 
 ## Dependencies and Description
-Listed in the pom.xml file.
-JUnit5 - With JUnit5 you are able to test your code to return expected values. Futhermore you can failproof your methods if tests come out faulty.
+Listed in the pom.xml file.  
+JUnit5 - With JUnit5 you are able to test your code to return expected values. Futhermore you can failproof your methods if tests come out faulty.  
 Mockito - With Mockito you are able to, for this purpose, fake an API-response so you can return expected value.
 
 ## Benefit of TDD and Mockito  
