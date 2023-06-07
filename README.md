@@ -16,4 +16,14 @@ Take a futher look inside the pom.xml file
 
 ## Test Report
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+## Test Summary
+
+| Test ID | Test Description | Expected Result | Actual Result | Status | Comments |
+|---------|-----------------|-----------------|---------------|--------|----------|
+| 1       | Passing null value to `getTodaysWeather(String)` | An `IllegalArgumentException` | An `IllegalArgumentException` |   OK    |     No problems identified     |
+| 2       | Passing empty String to `getTodaysWeather(String)` | An `IllegalArgumentException` | An `IllegalArgumentException` |   OK    |     No problems identified     |
+| 3       | Method call of `getTodaysWeather(String)` returns result | Weather description | Weather description |   OK    |     No problems identified     |
+| 4       | Assuring positive temperature is shown | "Temperature: 13.37°C" | "Temperature: 13.37°C" |   OK    |     No problems identified     |
+| 5       | Assuring negative temperature is shown | "Temperature: -40.3°C" | "Temperature: -40.3°C" |   OK    |     No problems identified     |
+
+
