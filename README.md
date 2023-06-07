@@ -39,4 +39,4 @@ Mockito - With Mockito you are able to, for this purpose, fake an API-response s
 
 #### Final Words
 * The `WeatherService` class appears to be reliable and free from issues based on the tests, which cover basic scenarios.  
-However, there are still alot of untested scenarios wich might show their true self when least needed, like most things in life, for good or bad.
+However, there are still alot of untested scenarios wich might show their true selves when least needed, like most things in life, for good or bad.
