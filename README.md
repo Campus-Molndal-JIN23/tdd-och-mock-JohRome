@@ -16,7 +16,7 @@ Take a futher look inside the pom.xml file
 
 ## Test Report
 
-## Test Summary
+### Test Summary
 
 | Test ID | Test Description | Expected Result | Actual Result | Status | Comments |
 |---------|-----------------|-----------------|---------------|--------|----------|
