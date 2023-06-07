@@ -17,8 +17,10 @@ JUnit5 - With JUnit5 you are able to test your code to return expected values. F
 Mockito - With Mockito you are able to, for this purpose, fake an API-response so you can return expected value.
 
 ## Benefit of TDD and Mockito  
+
 **Benefits of TDD:**
-* Forces you to think about several problematic outcomes and code to prevent them accordingly.
+* Forces you to think about several problematic outcomes and code to prevent them accordingly.  
+
 **Benefits of Mockito**
 * Gives you the possibility to test your connection to external sources in a safe enviroment without, for example, waste valuable API calls.
 
